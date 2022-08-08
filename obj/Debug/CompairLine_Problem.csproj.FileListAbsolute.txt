@@ -1,0 +1,8 @@
+C:\Users\palla\source\repos\184-RFP\CompairLine_Problem\CompairLine_Problem\bin\Debug\CompairLine_Problem.exe.config
+C:\Users\palla\source\repos\184-RFP\CompairLine_Problem\CompairLine_Problem\bin\Debug\CompairLine_Problem.exe
+C:\Users\palla\source\repos\184-RFP\CompairLine_Problem\CompairLine_Problem\bin\Debug\CompairLine_Problem.pdb
+C:\Users\palla\source\repos\184-RFP\CompairLine_Problem\CompairLine_Problem\obj\Debug\CompairLine_Problem.csproj.AssemblyReference.cache
+C:\Users\palla\source\repos\184-RFP\CompairLine_Problem\CompairLine_Problem\obj\Debug\CompairLine_Problem.csproj.SuggestedBindingRedirects.cache
+C:\Users\palla\source\repos\184-RFP\CompairLine_Problem\CompairLine_Problem\obj\Debug\CompairLine_Problem.csproj.CoreCompileInputs.cache
+C:\Users\palla\source\repos\184-RFP\CompairLine_Problem\CompairLine_Problem\obj\Debug\CompairLine_Problem.exe
+C:\Users\palla\source\repos\184-RFP\CompairLine_Problem\CompairLine_Problem\obj\Debug\CompairLine_Problem.pdb
