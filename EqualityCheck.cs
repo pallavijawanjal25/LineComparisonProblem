@@ -6,21 +6,17 @@ using System.Threading.Tasks;
 
 namespace CompairLine_Problem
 {
-    public static class EqualityCheck
+    public class CheckEquality
     {
-        public static void LenghthEqualityCheck(int a1, int b1, int a2, int b2)
+        public static void LineEqualityCheck(double length1,double length2)
         {
-            int len1, len2;
-            if (a1 == a2)
+            if(length1.Equals(length2))
             {
-                Console.WriteLine(b1.Equals(b2));
+                Console.WriteLine("Line1 is equal to Line2");
             }
             else
             {
-                len1 = b1 - a1;
-                len2 = b2 - a2;
-                Console.WriteLine(len1.Equals(len2));
-                Console.ReadLine();
+                Console.WriteLine("Line1 is not equal to Line2");
             }
         }
     }
